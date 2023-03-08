@@ -11,6 +11,7 @@ public class Main {
         //Impresiones
         System.out.println("La suma de los tres numeros es:" + resultadoSuma);
         System.out.println("El numero de puertas es:" + resultadoNumeroPuertas);
+        System.out.println("ADIOS ME GUSTO PROGRAMAR");
     }
 
 }
